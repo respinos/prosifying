@@ -9,7 +9,6 @@ categories:
 published: true
 ---
 
-
 In order to get started with Prose Bootstrap, all you have to do is forking the [repository](http://github.com/prose/bootstrap) and make your own adjustments.
 
 # Adjust Configuration
@@ -26,13 +25,13 @@ If your page lives under `http://username.github.com/sitename` your config.yml l
     - .gitignore
     - README.md
     
-    
+
+# Confusing
+
+The setup with github is confusing; where the cname is trying to go.
+
 # Use Prose
 
 Once your site is up you can start managing it with [Prose](http://prose.io). Follow the instructions [here](http://prose.io/help/getting-started.html).
 
 ![](http://prose.io/images/screenshots/edit.png)
-
-
-
-
